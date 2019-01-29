@@ -1,0 +1,253 @@
+{
+    "result": {
+        "ok": 1,
+        "n": 11
+    },
+    "ops": [
+        {
+            "pc9": "196260121",
+            "vsGlobal": "19626-0121",
+            "brand": "Levi's",
+            "gender": "Women's",
+            "brandCollection": "Misses",
+            "useType": "B\ufffdsico",
+            "line": "Bottoms",
+            "description": " Pantal\ufffdn, cintura media, pierna entubada, mezclilla, tecnolog\ufffda tummy- slimming para compirmir el abdomen.",
+            "extendedDescription": "Luce fant\ufffdstica con los Levis\ufffd 311 Levi's Shaping Skinny. Este pantal\ufffdn de mezclilla est\ufffd dise\ufffdado con tecnolog\ufffda Tummy Slimming para lucir una silueta esbelta que realza tus curvas adem\ufffds no pod\ufffda faltar la pierna Skinny que te va tan bien. Este par de Jeans son tan c\ufffdmodos que no querr\ufffds quit\ufffdrtelos.",
+            "composition": " 75% Algod\ufffdn, 23% Otras Fibras, 2% Elastano",
+            "color": "Cool Ten",
+            "spanishColor": "Azul Medio",
+            "shooting": true,
+            "status": "Buscando",
+            "skus": {
+                "sears": "4127561",
+                "liverpool": "-"
+            },
+            "_id": "5c3429a7f1f3c7c9f7d41008"
+        },
+        {
+            "pc9": "589180002",
+            "vsGlobal": "58918-0002",
+            "brand": "Dockers\ufffd",
+            "gender": "Men's",
+            "brandCollection": "Red Tab",
+            "useType": "B\ufffdsico",
+            "line": "Bottoms",
+            "description": "Pantal\ufffdn Pocket, Corte Straight, Parche en pretina",
+            "extendedDescription": "Tus Pantal\ufffdnes de mezclilla favoritos, cortados como tus jeans favoritos. \ufffdQu\ufffd m\ufffds necesita un hombre? Elaborado con algod\ufffdn suave y duradero que combina la comodidad del color caqui con el corte esbelto y los detalles de los jeans. Comb\ufffdnalos con una de nuestras camisas, polos o su\ufffdteres tejidos y considera tu juego de estilo actualizado",
+            "composition": "98% Algod\ufffdn, 2% Elastano",
+            "color": "Dark Rinsed Indigo Denim",
+            "spanishColor": "Azul",
+            "shooting": false,
+            "status": "Nuevo",
+            "skus": {
+                "sears": "-",
+                "liverpool": "1072988400"
+            },
+            "_id": "5c3429a7f1f3c7c9f7d41009"
+        },
+        {
+            "pc9": "593790006",
+            "vsGlobal": "59379-0006",
+            "brand": "Dockers\ufffd",
+            "gender": "Men's",
+            "brandCollection": "Red Tab",
+            "useType": "B\ufffdsico",
+            "line": "Bottoms",
+            "description": "Pantal\ufffdn Pocket, Corte Slim Casual, Parche en pretina",
+            "extendedDescription": "Tus Pantal\ufffdnes de mezclilla favoritos, cortados como tus jeans favoritos. \ufffdQu\ufffd m\ufffds necesita un hombre? Elaborado con algod\ufffdn suave y duradero que combina la comodidad del color caqui con el corte esbelto y los detalles de los jeans. Comb\ufffdnalos con una de nuestras blusas, polos o su\ufffdteres tejidos y considera tu juego de estilo actualizado.",
+            "composition": "100% Algod\ufffdn",
+            "color": "Denim1 - Mx",
+            "spanishColor": "Azul Obscuro",
+            "shooting": true,
+            "status": "Buscando",
+            "skus": {
+                "sears": "-",
+                "liverpool": "1080178696"
+            },
+            "_id": "5c3429a7f1f3c7c9f7d4100a"
+        },
+        {
+            "pc9": "589180022",
+            "vsGlobal": "58918-0022",
+            "brand": "Dockers\ufffd",
+            "gender": "Men's",
+            "brandCollection": "Red Tab",
+            "useType": "B\ufffdsico",
+            "line": "Bottoms",
+            "description": "Pantal\ufffdn Pocket, Corte Straight, Parche en pretina",
+            "extendedDescription": "Tus Pantal\ufffdnes de mezclilla favoritos, cortados como tus jeans favoritos. \ufffdQu\ufffd m\ufffds necesita un hombre? Elaborado con algod\ufffdn suave y duradero que combina la comodidad del color caqui con el corte esbelto y los detalles de los jeans. Comb\ufffdnalos con una de nuestras camisas, polos o su\ufffdteres tejidos y considera tu juego de estilo actualizado",
+            "composition": "100% Algod\ufffdn",
+            "color": "Denim1 - Mx",
+            "spanishColor": "Azul Medio",
+            "shooting": true,
+            "status": "Buscando",
+            "skus": {
+                "sears": "-",
+                "liverpool": "1079823228"
+            },
+            "_id": "5c3429a7f1f3c7c9f7d4100b"
+        },
+        {
+            "pc9": "589180023",
+            "vsGlobal": "58918-0023",
+            "brand": "Dockers\ufffd",
+            "gender": "Men's",
+            "brandCollection": "Red Tab",
+            "useType": "B\ufffdsico",
+            "line": "Bottoms",
+            "description": "Pantal\ufffdn Pocket, Corte Straight, Parche en pretina",
+            "extendedDescription": "Tus Pantal\ufffdnes de mezclilla favoritos, cortados como tus jeans favoritos. \ufffdQu\ufffd m\ufffds necesita un hombre? Elaborado con algod\ufffdn suave y duradero que combina la comodidad del color caqui con el corte esbelto y los detalles de los jeans. Comb\ufffdnalos con una de nuestras camisas, polos o su\ufffdteres tejidos y considera tu juego de estilo actualizado",
+            "composition": "100% Algod\ufffdn",
+            "color": "Denim2 - Mx",
+            "spanishColor": "Azul Medio",
+            "shooting": true,
+            "status": "Buscando",
+            "skus": {
+                "sears": "4062238",
+                "liverpool": "1079823422"
+            },
+            "_id": "5c3429a7f1f3c7c9f7d4100c"
+        },
+        {
+            "pc9": "728920005",
+            "vsGlobal": "72892-0005",
+            "brand": "Dockers\ufffd",
+            "gender": "Men's",
+            "brandCollection": "Red Tab",
+            "useType": "B\ufffdsico",
+            "line": "Bottoms",
+            "description": "Pantal\ufffdn corte Slim, Casual, Coin Pocket, Lavado ligero, Dockers Wing and Anchor\ufffd Bordado",
+            "extendedDescription": "Confort disfrazado para todos los d\ufffdas. El Alpha Khaki 2.0 con Smart 360 Flex presenta tela el\ufffdstica de 4 v\ufffdas para la sensaci\ufffdn y la comodidad de tus prendas favoritas. El espacio de almacenamiento seguro mantiene todos sus elementos esenciales organizados, y un cord\ufffdn de cintura permite un ajuste c\ufffdmodo. Cord\ufffdn de cintura interior. Sin presillas Bolsillos delanteros con cremallera y moneda segura. Bolsillos traseros con cremallera y cubierta protectora Cada gota cuenta, por lo que apuntamos a utilizar menos agua. Nuestros dise\ufffdadores est\ufffdn constantemente pensando en nuevas formas de crear el mismo",
+            "composition": "98% Algod\ufffdn, 2% Elastano",
+            "color": "Gold Alpha - Mermaid",
+            "spanishColor": "Verde Olivo",
+            "shooting": true,
+            "status": "Buscando",
+            "skus": {
+                "sears": "-",
+                "liverpool": "-"
+            },
+            "_id": "5c3429a7f1f3c7c9f7d4100d"
+        },
+        {
+            "pc9": "728920010",
+            "vsGlobal": "72892-0010",
+            "brand": "Dockers\ufffd",
+            "gender": "Men's",
+            "brandCollection": "Red Tab",
+            "useType": "B\ufffdsico",
+            "line": "Bottoms",
+            "description": "Pantal\ufffdn corte Slim, Casual, Coin Pocket, Lavado ligero, Dockers Wing and Anchor\ufffd Bordado",
+            "extendedDescription": "Confort disfrazado para todos los d\ufffdas. El Alpha Khaki 2.0 con Smart 360 Flex presenta tela el\ufffdstica de 4 v\ufffdas para la sensaci\ufffdn y la comodidad de tus prendas favoritas. El espacio de almacenamiento seguro mantiene todos sus elementos esenciales organizados, y un cord\ufffdn de cintura permite un ajuste c\ufffdmodo. Cord\ufffdn de cintura interior. Sin presillas Bolsillos delanteros con cremallera y moneda segura. Bolsillos traseros con cremallera y cubierta protectora Cada gota cuenta, por lo que apuntamos a utilizar menos agua. Nuestros dise\ufffdadores est\ufffdn constantemente pensando en nuevas formas de crear el mismo",
+            "composition": "98% Algod\ufffdn, 2% Elastano",
+            "color": "Gold Alpha - Washed Red",
+            "spanishColor": "Rojo",
+            "shooting": true,
+            "status": "Buscando",
+            "skus": {
+                "sears": "-",
+                "liverpool": "1078876263"
+            },
+            "_id": "5c3429a7f1f3c7c9f7d4100e"
+        },
+        {
+            "pc9": "560410014",
+            "vsGlobal": "56041-0014",
+            "brand": "Levi's",
+            "gender": "Women's",
+            "brandCollection": "Misses",
+            "useType": "B\ufffdsico",
+            "line": "Bottoms",
+            "description": " Pantal\ufffdn, cintura media, moldea de la cadera al muslo , tecnolog\ufffda que comprime el abdomen, pierna s\ufffdper ajustada.",
+            "extendedDescription": "Este par de Jeans 310 est\ufffd dise\ufffdado con tecnolog\ufffda Tummy Slimming para lucir una silueta esbelta y realzar tus curvas. Estos Jeans tienen el look cl\ufffdsico y la comodidad de unos leggings, p\ufffdntelos y disfruta lo mejor de ambos mundos",
+            "composition": " 85% Algod\ufffdn, 12% Poli\ufffdster, 3% Elastano",
+            "color": "Hype Blue",
+            "spanishColor": "Azul Claro",
+            "shooting": true,
+            "status": "Buscando",
+            "skus": {
+                "sears": "3402964",
+                "liverpool": "-"
+            },
+            "_id": "5c3429a7f1f3c7c9f7d4100f"
+        },
+        {
+            "pc9": "593790004",
+            "vsGlobal": "59379-0004",
+            "brand": "Dockers\ufffd",
+            "gender": "Men's",
+            "brandCollection": "Red Tab",
+            "useType": "B\ufffdsico",
+            "line": "Bottoms",
+            "description": "Pantal\ufffdn Pocket, Corte Slim Casual, Parche en pretina",
+            "extendedDescription": "Tus Pantal\ufffdnes de mezclilla favoritos, cortados como tus jeans favoritos. \ufffdQu\ufffd m\ufffds necesita un hombre? Elaborado con algod\ufffdn suave y duradero que combina la comodidad del color caqui con el corte esbelto y los detalles de los jeans. Comb\ufffdnalos con una de nuestras blusas, polos o su\ufffdteres tejidos y considera tu juego de estilo actualizado.",
+            "composition": "99% Algod\ufffdn, 1% Elastano",
+            "color": "Judah Denim Finish",
+            "spanishColor": "Azul Claro",
+            "shooting": true,
+            "status": "Buscando",
+            "skus": {
+                "sears": "-",
+                "liverpool": "1080178602"
+            },
+            "_id": "5c3429a7f1f3c7c9f7d41010"
+        },
+        {
+            "pc9": "589180003",
+            "vsGlobal": "58918-0003",
+            "brand": "Dockers\ufffd",
+            "gender": "Men's",
+            "brandCollection": "Red Tab",
+            "useType": "B\ufffdsico",
+            "line": "Bottoms",
+            "description": "Pantal\ufffdn Pocket, Corte Straight, Parche en pretina",
+            "extendedDescription": "Tus Pantal\ufffdnes de mezclilla favoritos, cortados como tus jeans favoritos. \ufffdQu\ufffd m\ufffds necesita un hombre? Elaborado con algod\ufffdn suave y duradero que combina la comodidad del color caqui con el corte esbelto y los detalles de los jeans. Comb\ufffdnalos con una de nuestras camisas, polos o su\ufffdteres tejidos y considera tu juego de estilo actualizado",
+            "composition": "98% Algod\ufffdn, 2% Elastano",
+            "color": "Lexington Denim Finish",
+            "spanishColor": "Azul",
+            "shooting": false,
+            "status": "Nuevo",
+            "skus": {
+                "sears": "-",
+                "liverpool": "1072988507"
+            },
+            "_id": "5c3429a7f1f3c7c9f7d41011"
+        },
+        {
+            "pc9": "DMPBRW006",
+            "vsGlobal": "DMPBR-W006",
+            "brand": "Dockers\ufffd",
+            "gender": "Men's",
+            "brandCollection": "Accesorios",
+            "useType": "B\ufffdsico",
+            "line": "Belts",
+            "description": "Cintur\ufffdn reversible doble con pespunte en contraste,  branding en hebilla (completo)",
+            "extendedDescription": "Cintur\ufffdn reversible con el cual podr\ufffds mostrar tu mejor faceta, en cualquier ocasi\ufffdn.",
+            "composition": "52% Poliuretano, 48% Piel",
+            "color": "Cognac/Negro",
+            "spanishColor": "Cognac/Negro",
+            "shooting": true,
+            "status": "Buscando",
+            "skus": {
+                "sears": "-",
+                "liverpool": "-"
+            },
+            "_id": "5c3429a7f1f3c7c9f7d41012"
+        }
+    ],
+    "insertedCount": 11,
+    "insertedIds": {
+        "0": "5c3429a7f1f3c7c9f7d41008",
+        "1": "5c3429a7f1f3c7c9f7d41009",
+        "2": "5c3429a7f1f3c7c9f7d4100a",
+        "3": "5c3429a7f1f3c7c9f7d4100b",
+        "4": "5c3429a7f1f3c7c9f7d4100c",
+        "5": "5c3429a7f1f3c7c9f7d4100d",
+        "6": "5c3429a7f1f3c7c9f7d4100e",
+        "7": "5c3429a7f1f3c7c9f7d4100f",
+        "8": "5c3429a7f1f3c7c9f7d41010",
+        "9": "5c3429a7f1f3c7c9f7d41011",
+        "10": "5c3429a7f1f3c7c9f7d41012"
+    }
+}
